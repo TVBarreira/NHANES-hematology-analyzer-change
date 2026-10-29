@@ -1,0 +1,6 @@
+"analyte","label","applies_to","additive_step","lo","hi","sd_units","form_call","proportional_factor","boundaries_tested","boundaries_with_step","nchs_reported_shift","referent"
+"rdw","RDW (%)","cycles 2013-2014 onward (Coulter DxH 800)",0.720921713719858,0.58156057595345,0.860282851486266,0.559434164250636,"indistinguishable - report additive",1.05680629179549,10,2,0.710000000000001,"adolescents 12-19 y, non-pregnant"
+"wbc","WBC (10^3/uL)","cycles 2013-2014 onward (Coulter DxH 800)",0.420515153928538,0.0535703926238406,0.787459915233236,0.180271698950189,"additive",1.06153913180637,10,2,0.38,"adolescents 12-19 y, non-pregnant"
+"hct","Hematocrit (%)","cycles 2013-2014 onward (Coulter DxH 800)",0.604547003154144,0.0284305833596112,1.18066342294868,0.141369656068682,"neither constant - report by percentile",1.01486155022021,10,3,NA,"adolescents 12-19 y, non-pregnant"
+"mch","MCH (pg)","cycles 2013-2014 onward (Coulter DxH 800)",-0.491514881581465,-0.808425167308119,-0.17460459585481,-0.201591946453853,"neither constant - report by percentile",0.98520809374249,10,2,NA,"adolescents 12-19 y, non-pregnant"
+"mchc","MCHC (g/dL)","cycles 2013-2014 onward (Coulter DxH 800)",-0.340098282460935,-0.640058548920967,-0.0401380160009024,-0.349762833152888,"indistinguishable - report additive",0.99008488404483,10,3,NA,"adolescents 12-19 y, non-pregnant"
