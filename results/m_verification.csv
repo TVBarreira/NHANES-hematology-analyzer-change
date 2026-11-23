@@ -1,0 +1,81 @@
+"section","item","version","est","lo","hi","p","n"
+"B variance","RDW, adolescents, 2011-2013","as in M02 (design on filtered rows)",0.720921713719858,0.58156057595345,0.860282851486266,9.05237644595847e-12,2380
+"B variance","RDW, adolescents, 2011-2013","domain analysis (full design, subset)",0.720921713719858,0.58156057595345,0.860282851486266,9.05237644595847e-12,2380
+"B variance","WBC, adolescents, 2011-2013","as in M02 (design on filtered rows)",0.420515153928538,0.0535703926238406,0.787459915233236,0.0262343032156652,2380
+"B variance","WBC, adolescents, 2011-2013","domain analysis (full design, subset)",0.420515153928538,0.0535703926238406,0.787459915233236,0.0262343032156652,2380
+"B variance","Phenotypic age, adults, 2011-2013","as in M02 (design on filtered rows)",2.63331348141223,2.13165043369123,3.13497652913323,9.41110568215661e-12,9272
+"B variance","Phenotypic age, adults, 2011-2013","domain analysis (full design, subset)",2.63331348141223,2.13165043369123,3.13497652913323,9.41110568215661e-12,9272
+"B variance","Phenotypic age after correction","as in M02 (design on filtered rows)",0.210565702861417,-0.29109734485958,0.712228750582414,0.399342791839971,9272
+"B variance","Phenotypic age after correction","domain analysis (full design, subset)",0.210565702861417,-0.29109734485958,0.712228750582414,0.399342791839971,9272
+"B variance","rbc, adolescents, 2011-2013","as in M02 (design on filtered rows)",0.103052270692278,0.0431372127704876,0.162967328614069,0.0014197742367882,2380
+"B variance","rbc, adolescents, 2011-2013","domain analysis (full design, subset)",0.103052270692278,0.0431372127704876,0.162967328614069,0.0014197742367882,2380
+"B variance","hct, adolescents, 2011-2013","as in M02 (design on filtered rows)",0.604547003154144,0.0284305833596112,1.18066342294868,0.0405562669039476,2380
+"B variance","hct, adolescents, 2011-2013","domain analysis (full design, subset)",0.604547003154144,0.0284305833596112,1.18066342294868,0.0405562669039476,2380
+"B variance","mch, adolescents, 2011-2013","as in M02 (design on filtered rows)",-0.491514881581465,-0.808425167308119,-0.17460459585481,0.00351796292748483,2380
+"B variance","mch, adolescents, 2011-2013","domain analysis (full design, subset)",-0.491514881581465,-0.808425167308119,-0.17460459585481,0.00351796292748483,2380
+"B variance","mchc, adolescents, 2011-2013","as in M02 (design on filtered rows)",-0.340098282460935,-0.640058548920967,-0.0401380160009024,0.0277440859133314,2380
+"B variance","mchc, adolescents, 2011-2013","domain analysis (full design, subset)",-0.340098282460935,-0.640058548920967,-0.0401380160009024,0.0277440859133314,2380
+"B variance","mono, adolescents, 2011-2013","as in M02 (design on filtered rows)",0.38694759436867,0.0886972572413957,0.685197931495945,0.0127795951449741,2376
+"B variance","mono, adolescents, 2011-2013","domain analysis (full design, subset)",0.38694759436867,0.0886972572413957,0.685197931495945,0.0127795951449741,2376
+"B variance","hgb, adolescents, 2011-2013","as in M02 (design on filtered rows)",0.0761689992916629,-0.136189386803587,0.288527385386912,0.470503489193152,2380
+"B variance","hgb, adolescents, 2011-2013","domain analysis (full design, subset)",0.0761689992916629,-0.136189386803587,0.288527385386912,0.470503489193152,2380
+"B variance","mcv, adolescents, 2011-2013","as in M02 (design on filtered rows)",-0.601983949310085,-1.32076241215671,0.116794513536535,0.0980186205847295,2380
+"B variance","mcv, adolescents, 2011-2013","domain analysis (full design, subset)",-0.601983949310085,-1.32076241215671,0.116794513536535,0.0980186205847295,2380
+"B variance","lymph, adolescents, 2011-2013","as in M02 (design on filtered rows)",-0.439402430442431,-1.49653177863363,0.617726917748766,0.403671275063884,2376
+"B variance","lymph, adolescents, 2011-2013","domain analysis (full design, subset)",-0.439402430442431,-1.49653177863363,0.617726917748766,0.403671275063884,2376
+"B variance","neut, adolescents, 2011-2013","as in M02 (design on filtered rows)",0.448175979561339,-0.744882314587541,1.64123427371022,0.449950749993376,2376
+"B variance","neut, adolescents, 2011-2013","domain analysis (full design, subset)",0.448175979561339,-0.744882314587541,1.64123427371022,0.449950749993376,2376
+"B variance","plt, adolescents, 2011-2013","as in M02 (design on filtered rows)",1.50839106118849,-5.24963512099914,8.26641724337611,0.652533596995752,2380
+"B variance","plt, adolescents, 2011-2013","domain analysis (full design, subset)",1.50839106118849,-5.24963512099914,8.26641724337611,0.652533596995752,2380
+"A interaction","age-group x cycle, 2011-2012 vs 2013-2014, adults (test reported in the manuscript)","domain analysis",NA,NA,NA,0.466132849562985,9272
+"A interaction","age (continuous) x cycle, all 11 cycles (as written by M02; a different test)","as in M02",NA,NA,NA,0.149958185746452,48961
+"C phlebotomy weight","rdw, adolescents, 2017-2018 to 2021-2023","MEC weight (as in M02)",0.181583309013309,0.0695922430827649,0.293574374943852,0.00249271067268466,1983
+"C phlebotomy weight","rdw, adolescents, 2017-2018 to 2021-2023","phlebotomy weight in 2021-2023",0.170714419770282,0.057335529501125,0.284093310039439,0.00455609025648864,1983
+"C phlebotomy weight","wbc, adolescents, 2017-2018 to 2021-2023","MEC weight (as in M02)",-0.0450618624964921,-0.304054397558642,0.213930672565657,0.724911649826758,1983
+"C phlebotomy weight","wbc, adolescents, 2017-2018 to 2021-2023","phlebotomy weight in 2021-2023",-0.0373981509569378,-0.298933758007571,0.224137456093695,0.772339883571686,1983
+"C phlebotomy weight","rbc, adolescents, 2017-2018 to 2021-2023","MEC weight (as in M02)",-0.034358611398137,-0.0956801829190212,0.0269629601227471,0.261860787303586,1983
+"C phlebotomy weight","rbc, adolescents, 2017-2018 to 2021-2023","phlebotomy weight in 2021-2023",-0.0327873154143345,-0.0961575529932048,0.0305829221645359,0.299391311594627,1983
+"C phlebotomy weight","hct, adolescents, 2017-2018 to 2021-2023","MEC weight (as in M02)",-0.816790609994157,-1.3085702805314,-0.325010939456919,0.00202229044985368,1983
+"C phlebotomy weight","hct, adolescents, 2017-2018 to 2021-2023","phlebotomy weight in 2021-2023",-0.821331845402134,-1.32007332778015,-0.322590363024122,0.00217928282796368,1983
+"C phlebotomy weight","mch, adolescents, 2017-2018 to 2021-2023","MEC weight (as in M02)",-0.213385671833162,-0.55705648061105,0.130285136944726,0.214866483409598,1983
+"C phlebotomy weight","mch, adolescents, 2017-2018 to 2021-2023","phlebotomy weight in 2021-2023",-0.22682673352485,-0.572960759099048,0.119307292049348,0.191187706961602,1983
+"C phlebotomy weight","mchc, adolescents, 2017-2018 to 2021-2023","MEC weight (as in M02)",0.165397612782493,-0.0948805164277384,0.425675741992724,0.20458689615288,1983
+"C phlebotomy weight","mchc, adolescents, 2017-2018 to 2021-2023","phlebotomy weight in 2021-2023",0.162446165944439,-0.0967172613819074,0.421609593270786,0.21064975856381,1983
+"C phlebotomy weight","mono, adolescents, 2017-2018 to 2021-2023","MEC weight (as in M02)",-0.227052320348516,-0.525941042745616,0.0718364020485851,0.131646484869133,1981
+"C phlebotomy weight","mono, adolescents, 2017-2018 to 2021-2023","phlebotomy weight in 2021-2023",-0.229594090993977,-0.52540204680261,0.0662138648146556,0.123782709549927,1981
+"C phlebotomy weight","hgb, adolescents, 2017-2018 to 2021-2023","MEC weight (as in M02)",-0.20613608851496,-0.39783349085317,-0.0144386861767505,0.0362328028428457,1983
+"C phlebotomy weight","hgb, adolescents, 2017-2018 to 2021-2023","phlebotomy weight in 2021-2023",-0.208957681516051,-0.400175683319707,-0.017739679712395,0.0335230816468116,1983
+"C phlebotomy weight","mcv, adolescents, 2017-2018 to 2021-2023","MEC weight (as in M02)",-1.0622702062132,-1.78399590083427,-0.34054451159212,0.0054186104471966,1983
+"C phlebotomy weight","mcv, adolescents, 2017-2018 to 2021-2023","phlebotomy weight in 2021-2023",-1.09608423797175,-1.84195075557782,-0.350217720365676,0.00548260149197342,1983
+"C phlebotomy weight","lymph, adolescents, 2017-2018 to 2021-2023","MEC weight (as in M02)",0.258667224878901,-0.858953608590306,1.37628805834811,0.639984744326083,1981
+"C phlebotomy weight","lymph, adolescents, 2017-2018 to 2021-2023","phlebotomy weight in 2021-2023",0.321972344761157,-0.796642984052278,1.44058767357459,0.561196612226564,1981
+"C phlebotomy weight","neut, adolescents, 2017-2018 to 2021-2023","MEC weight (as in M02)",-0.000195433662416175,-1.20819246876647,1.20780160144164,0.999738637028671,1981
+"C phlebotomy weight","neut, adolescents, 2017-2018 to 2021-2023","phlebotomy weight in 2021-2023",-0.0679924609743573,-1.28289807808835,1.14691315613964,0.909790637246319,1981
+"C phlebotomy weight","plt, adolescents, 2017-2018 to 2021-2023","MEC weight (as in M02)",17.5167975080299,8.02306624879937,27.0105287672605,0.000747878647009003,1983
+"C phlebotomy weight","plt, adolescents, 2017-2018 to 2021-2023","phlebotomy weight in 2021-2023",18.4155088409032,8.85203084640196,27.9789868354043,0.00048024508418832,1983
+"C phlebotomy weight","mean phenotypic age acceleration, 2021-2023 (Fig 1B)","MEC weight (as in M02)",1.01980742173765,0.605440380865219,1.43417446261008,NA,4971
+"C phlebotomy weight","mean phenotypic age acceleration, 2021-2023 (Fig 1B)","phlebotomy weight in 2021-2023",1.05444920768391,0.641308444048939,1.46758997131888,NA,4971
+"D quartiles","Phenotypic age acceleration, measured: % of adults changing quartile","MEC weight (as in M02)",26.4781025053075,NA,NA,NA,48961
+"D quartiles","Phenotypic age acceleration, measured: % in top pooled quartile, before 2013","MEC weight (as in M02)",18.8817493712358,NA,NA,NA,NA
+"D quartiles","Phenotypic age acceleration, measured: % in top pooled quartile, 2013 onward","MEC weight (as in M02)",34.6366194224073,NA,NA,NA,NA
+"D quartiles","Phenotypic age acceleration, after correction: % of adults changing quartile","MEC weight (as in M02)",11.541908257403,NA,NA,NA,48961
+"D quartiles","Phenotypic age acceleration, after correction: % in top pooled quartile, before 2013","MEC weight (as in M02)",24.8037592911101,NA,NA,NA,NA
+"D quartiles","Phenotypic age acceleration, after correction: % in top pooled quartile, 2013 onward","MEC weight (as in M02)",25.3047604046601,NA,NA,NA,NA
+"D quartiles","RAR, measured: % of adults changing quartile","MEC weight (as in M02)",30.8277648221624,NA,NA,NA,48961
+"D quartiles","RAR, measured: % in top pooled quartile, before 2013","MEC weight (as in M02)",17.9413070166498,NA,NA,NA,NA
+"D quartiles","RAR, measured: % in top pooled quartile, 2013 onward","MEC weight (as in M02)",36.0794930365807,NA,NA,NA,NA
+"D quartiles","RAR, after correction: % of adults changing quartile","MEC weight (as in M02)",11.8937273469686,NA,NA,NA,48961
+"D quartiles","RAR, after correction: % in top pooled quartile, before 2013","MEC weight (as in M02)",22.9446791326142,NA,NA,NA,NA
+"D quartiles","RAR, after correction: % in top pooled quartile, 2013 onward","MEC weight (as in M02)",27.9016876000169,NA,NA,NA,NA
+"D quartiles","Phenotypic age acceleration, measured: % of adults changing quartile","phlebotomy weight in 2021-2023",26.5559897690393,NA,NA,NA,48961
+"D quartiles","Phenotypic age acceleration, measured: % in top pooled quartile, before 2013","phlebotomy weight in 2021-2023",18.8443086534043,NA,NA,NA,NA
+"D quartiles","Phenotypic age acceleration, measured: % in top pooled quartile, 2013 onward","phlebotomy weight in 2021-2023",34.5884577431289,NA,NA,NA,NA
+"D quartiles","Phenotypic age acceleration, after correction: % of adults changing quartile","phlebotomy weight in 2021-2023",11.4530211005558,NA,NA,NA,48961
+"D quartiles","Phenotypic age acceleration, after correction: % in top pooled quartile, before 2013","phlebotomy weight in 2021-2023",24.7816944400272,NA,NA,NA,NA
+"D quartiles","Phenotypic age acceleration, after correction: % in top pooled quartile, 2013 onward","phlebotomy weight in 2021-2023",25.339797446199,NA,NA,NA,NA
+"D quartiles","RAR, measured: % of adults changing quartile","phlebotomy weight in 2021-2023",31.1300848092796,NA,NA,NA,48961
+"D quartiles","RAR, measured: % in top pooled quartile, before 2013","phlebotomy weight in 2021-2023",17.5370219660483,NA,NA,NA,NA
+"D quartiles","RAR, measured: % in top pooled quartile, 2013 onward","phlebotomy weight in 2021-2023",36.0311153539478,NA,NA,NA,NA
+"D quartiles","RAR, after correction: % of adults changing quartile","phlebotomy weight in 2021-2023",11.9118243624325,NA,NA,NA,48961
+"D quartiles","RAR, after correction: % in top pooled quartile, before 2013","phlebotomy weight in 2021-2023",22.9446791326142,NA,NA,NA,NA
+"D quartiles","RAR, after correction: % in top pooled quartile, 2013 onward","phlebotomy weight in 2021-2023",28.009893583213,NA,NA,NA,NA
